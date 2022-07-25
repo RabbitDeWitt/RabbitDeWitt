@@ -3,6 +3,7 @@
 
 
 - 📖 Estudando: Angular
+- 🎓 Formação: Análise e desenvolvimento de sistemas
 - 💬 E-mail: davidsocoelho@outlook.com
 - 🎸 Hobbys: Tocar guitar, jogar uns joguinho e assistir vídeos do YT
 - 😄 Pronouns: ele/dele
