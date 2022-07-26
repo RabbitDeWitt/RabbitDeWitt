@@ -11,12 +11,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Snake Animation
-      - uses: Platane/snk@v2
+      - uses: Platane/snk@master
         id: snake-gif
         with:
           github_user_name: RabbitDeWitt
           svg_out_path: dist/github-contribution-grid-snake.svg
-          outputs: dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+          
     
           
 
