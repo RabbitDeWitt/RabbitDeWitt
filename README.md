@@ -3,6 +3,7 @@
 
 
 - 📖 Estudando: Next.js e Tailwind CSS
+- 📚 Cursando: Recode Pro 2023
 - 🎓 Formação: Análise e desenvolvimento de sistemas
 - 💬 E-mail: davidsocoelho@outlook.com
 - 🎸 Hobbys: Tocar guitarra, jogar uns joguinho e assistir vídeos do YT
@@ -10,8 +11,9 @@
 
 <div align="center">
   <a href="https://github.com/RabbitDeWitt">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RabbitDeWitt&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RabbitDeWitt&layout=compact&langs_count=7&theme=gotham"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RabbitDeWitt&show_icons=true&include_all_commits=true&count_private=true&theme=city_lights"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RabbitDeWitt&layout=compact&langs_count=7&theme=city_lights"/>
 </div>
 <div style="display: inline_block"><br>
 <img align="center" alt="David-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
