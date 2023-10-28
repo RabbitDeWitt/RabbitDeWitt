@@ -24,15 +24,17 @@
   <img align="center" alt="David-Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">  
   <img align="center" alt="David-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">  
   <img align="center" alt="David-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <!-- <img align="center" alt="David-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg"> -->
+  <img align="center" alt="David-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg">
   <img align="center" alt="David-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="David-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   
   
   
 </div>
-
 <div>
 
-![Snake animation](https://github.com/RabbitDeWitt/RabbitDeWitt/blob/output/github-contribution-grid-snake.svg)
+<!--
+ ![Snake animation](https://github.com/RabbitDeWitt/RabbitDeWitt/blob/output/github-contribution-grid-snake.svg) -->
+
 
 </div>
