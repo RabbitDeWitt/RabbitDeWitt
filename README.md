@@ -2,7 +2,7 @@
 
 
 
-- 📖 Estudando: Sass e Bootstrap
+- 📖 Estudando: Next js e Sass
 - 📚 Cursando: Recode Pro 2023
 - 🎓 Formação: Análise e desenvolvimento de sistemas
 - 💬 E-mail: davidsocoelho@outlook.com
