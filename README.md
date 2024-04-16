@@ -3,8 +3,7 @@
 
 
 - 📖 Estudando: Next js e Sass
-- 📚 Cursando: Recode Pro 2023
-- 🎓 Formação: Análise e desenvolvimento de sistemas
+- 🎓 Formação: Análise e desenvolvimento de sistemas e Recode Pro 2023
 - 💬 E-mail: davidsocoelho@outlook.com
 - 🎸 Hobbys: Tocar guitarra, jogar uns joguinho e assistir vídeos do YT
 - 😄 Pronouns: ele/dele
