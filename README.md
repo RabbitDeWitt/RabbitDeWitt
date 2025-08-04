@@ -2,7 +2,7 @@
 
 
 
-- 📖 Estudando: C#
+- 📖 Estudando: React
 - 🎓 Formação: Análise e desenvolvimento de sistemas e Recode Pro 2023
 - 💬 E-mail: davidsocoelho@outlook.com
 - 🎸 Hobbys: Tocar guitarra, jogar uns joguinho e assistir vídeos do YT
